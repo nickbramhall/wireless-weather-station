@@ -11,8 +11,10 @@ The sensor is installed under the roof of our garden shed where it is protected 
 
 A 4 core cable runs between the sensor and the ESP8266. This carries the V+, GND, SCL and SDA signals required for the I2C protocol.
 
-<img src='https://lh3.googleusercontent.com/jxQaHf9efEayiMJxlSM_FlDOA-UMQeetjmqfqUpoaBWa-XLI7OY0jRYqPWWEkeAT_4OJ_nIewG4EEJ1LT09zdbaRxZkae9eIyXrcaG3gxWxLhriilYqdFHCWknxWN9414YfXLc87lZ2AguZjogJYcKP549ECmZF9tPObw5pkiZRsJL8mpxuJFeAxKUzWtfMwXWr6Niw4YqipEQzYOFYTXS0dK2fUEbTo2gnhpsZDHjqeDrOuQA8cB8lJ7vcx3rgGankrC8KvxpB07LlCAS2bhUFSJXqNF6s1_TTEWmsGQE5YWsPK2RRwBdfp3colezCiS645aJ6xo4uH_2BBnHXRqanM2o1AxDuGjC8LG3BdvPK9yjuRiiI06himhs_znPpLooV8hXyCDpJqq1yvXIsxrrxcv5SgMDrjd0biL8XaQfiSN3yPuEPGtKKryMu3PAdDqaAsV8_hhghUD-BdTg0xNl5RvzZYYFYfWSuJPr69lTeQJhl2GwtP9sqYEXTW5dMnJxnIs0Gi36yktmPA-R8zAEVKafXp7u9GqGz5zO4x5CY2kUfgJpcDM0UmtBvOg9amY7vauGfueWjVFFSzo4xXxvI5yqbYT0NtPiPKS6uLPpEvxWfrEJ6fPtir5a3VzVfP4mkhg6Ec9KIKnAKjtZZeRiLvS2FYEOUD=w2164-h1378-no' />
+<a href="https://www.flickr.com/photos/black_friction/48409642706/in/album-72157718508798159/" title="BME280 Sensor"><img src="https://live.staticflickr.com/65535/48409642706_73f428cae7_b.jpg" width="1024" height="652" alt="BME280 Sensor"></a>
 
 ### ESP8266
+
+<a href="https://www.flickr.com/photos/black_friction/50145800613/in/album-72157718508798159/" title="Wireless Weather Station"><img src="https://live.staticflickr.com/65535/50145800613_d8325e28d1_b.jpg" width="1024" height="768" alt="Wireless Weather Station"></a>
 
 
